@@ -1,0 +1,17 @@
+1. Primeira visita:
+   a. Ligue o primeiro interruptor.
+   b. Entre na primeira sala das lâmpadas.
+   c. Se uma lâmpada estiver acesa:
+      - O primeiro interruptor controla essa lâmpada.
+   d. Se todas as lâmpadas estiverem apagadas:
+      - Desligue o primeiro interruptor.
+      - Siga para a segunda visita.
+
+2. Segunda visita:
+   a. Ligue o segundo interruptor.
+   b. Entre na sala das lâmpadas novamente.
+   c. Se uma lâmpada estiver acesa:
+      - O segundo interruptor controla essa lâmpada.
+   d. Se nenhuma lâmpada estiver acesa:
+      - Isso significa que o segundo interruptor não controla nenhuma lâmpada.
+      - Portanto, o terceiro interruptor controla a lâmpada que não foi ligada anteriormente.
